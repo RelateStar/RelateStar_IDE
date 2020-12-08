@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Syntax">
+        <file>resources/cppKeywords.txt</file>
+    </qresource>
+</RCC>
